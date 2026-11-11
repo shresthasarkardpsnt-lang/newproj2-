@@ -1,0 +1,419 @@
+[
+  {
+    "id": "r_diploma_lateral",
+    "name": "Diploma in Computer Engineering, then lateral entry to B.Tech CSE",
+    "route_type": "Diploma / lateral-entry route",
+    "alternative_for": [
+      "btech_cse"
+    ],
+    "final_programme": "btech_lateral_cse",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "diploma_cs",
+        "label": "Diploma in Computer Engineering"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "btech_lateral_cse",
+        "label": "B.Tech CSE - lateral entry"
+      }
+    ],
+    "why_recommended": "Different entry prerequisites (Class 10 based) than the direct B.Tech route; leads to a B.Tech CSE seat through lateral entry where offered.",
+    "steps_to_complete": [
+      "Check the Class 10 requirement of the diploma",
+      "Complete the diploma with the required percentage",
+      "Check whether the target institution offers lateral entry and its own rules"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "diploma_cs"
+  },
+  {
+    "id": "r_found_bsc_cs",
+    "name": "Foundation Programme, then B.Sc Computer Science",
+    "route_type": "Foundation / bridge route",
+    "alternative_for": [
+      "bsc_cs",
+      "btech_cse"
+    ],
+    "final_programme": "bsc_cs",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "found_computing",
+        "label": "Foundation Programme in Computing & Mathematics"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "bsc_cs",
+        "label": "B.Sc Computer Science"
+      }
+    ],
+    "why_recommended": "A foundation stage with a lower overall-percentage threshold that is meant to prepare students for degree-level computing.",
+    "steps_to_complete": [
+      "Meet the foundation entry threshold",
+      "Complete the foundation programme",
+      "Apply to B.Sc CS and confirm the institution accepts the foundation programme"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "found_computing"
+  },
+  {
+    "id": "r_found_bca",
+    "name": "Foundation Programme, then BCA",
+    "route_type": "Foundation / bridge route",
+    "alternative_for": [
+      "bca",
+      "bsc_cs"
+    ],
+    "final_programme": "bca",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "found_computing",
+        "label": "Foundation Programme in Computing & Mathematics"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "bca",
+        "label": "BCA"
+      }
+    ],
+    "why_recommended": "Useful if Mathematics / Computer Science was not studied at Class 12, which BCA asks for in this sample rule.",
+    "steps_to_complete": [
+      "Meet the foundation entry threshold",
+      "Complete the foundation programme",
+      "Confirm with the BCA institution that the foundation counts toward its subject requirement"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "found_computing"
+  },
+  {
+    "id": "r_cet_cse",
+    "name": "B.Tech CSE through State CET instead of JEE Main",
+    "route_type": "Alternative entrance-examination route",
+    "alternative_for": [
+      "btech_cse"
+    ],
+    "final_programme": "btech_cse",
+    "steps": [
+      {
+        "kind": "exam",
+        "label": "Qualify State CET (see the exam's official notification)"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "btech_cse",
+        "label": "B.Tech CSE"
+      }
+    ],
+    "why_recommended": "Same academic thresholds, but a different entrance examination. Only helps if the institution accepts State CET scores.",
+    "steps_to_complete": [
+      "Check whether the target institution accepts State CET",
+      "Register and appear for the exam",
+      "Apply with the qualifying score"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "btech_cse",
+    "replace_requirements": {
+      "entrance": {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "State CET"
+        ],
+        "label": "Entrance examination"
+      }
+    }
+  },
+  {
+    "id": "r_cet_aiml",
+    "name": "B.Tech AI/ML through State CET instead of JEE Main",
+    "route_type": "Alternative entrance-examination route",
+    "alternative_for": [
+      "btech_aiml"
+    ],
+    "final_programme": "btech_aiml",
+    "steps": [
+      {
+        "kind": "exam",
+        "label": "Qualify State CET (see the exam's official notification)"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "btech_aiml",
+        "label": "B.Tech AI/ML"
+      }
+    ],
+    "why_recommended": "Same academic thresholds, but a different entrance examination, if accepted by the institution.",
+    "steps_to_complete": [
+      "Check whether the target institution accepts State CET",
+      "Register and appear for the exam",
+      "Apply with the qualifying score"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "btech_aiml",
+    "replace_requirements": {
+      "entrance": {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "State CET"
+        ],
+        "label": "Entrance examination"
+      }
+    }
+  },
+  {
+    "id": "r_bca_mca",
+    "name": "BCA, then MCA",
+    "route_type": "Related programme (different prerequisites)",
+    "alternative_for": [
+      "btech_cse",
+      "btech_it",
+      "btech_aiml"
+    ],
+    "final_programme": "mca",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "bca",
+        "label": "BCA"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "mca",
+        "label": "MCA"
+      }
+    ],
+    "why_recommended": "BCA has lower academic thresholds than B.Tech and can lead to MCA. It is a different degree path, not the B.Tech degree.",
+    "steps_to_complete": [
+      "Meet BCA requirements",
+      "Complete BCA",
+      "Meet MCA requirements (bachelor's percentage, mathematics background, entrance exam)"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "bca"
+  },
+  {
+    "id": "r_bsc_cs_mca",
+    "name": "B.Sc Computer Science, then MCA",
+    "route_type": "Related programme (different prerequisites)",
+    "alternative_for": [
+      "btech_cse",
+      "btech_it"
+    ],
+    "final_programme": "mca",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "bsc_cs",
+        "label": "B.Sc Computer Science"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "mca",
+        "label": "MCA"
+      }
+    ],
+    "why_recommended": "A science-degree path into computing postgraduate study. It is a different degree, not the B.Tech degree.",
+    "steps_to_complete": [
+      "Meet B.Sc CS requirements",
+      "Complete the degree",
+      "Meet MCA requirements"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "bsc_cs"
+  },
+  {
+    "id": "r_bscds_mscds",
+    "name": "B.Sc Data Science, then M.Sc Data Science",
+    "route_type": "Related programme (different prerequisites)",
+    "alternative_for": [
+      "btech_aiml",
+      "btech_cse"
+    ],
+    "final_programme": "msc_ds",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "bsc_ds",
+        "label": "B.Sc Data Science"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "msc_ds",
+        "label": "M.Sc Data Science"
+      }
+    ],
+    "why_recommended": "A data-focused path toward AI-related study with different prerequisites (accepts Commerce with Mathematics). Not the B.Tech degree.",
+    "steps_to_complete": [
+      "Meet B.Sc Data Science requirements",
+      "Complete the degree",
+      "Meet M.Sc Data Science requirements"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "bsc_ds"
+  },
+  {
+    "id": "r_bsc_elec",
+    "name": "B.Sc Electronics (related to Electronics Engineering)",
+    "route_type": "Related programme (different prerequisites)",
+    "alternative_for": [
+      "btech_ece"
+    ],
+    "final_programme": "bsc_electronics",
+    "steps": [
+      {
+        "kind": "programme",
+        "programme_id": "bsc_electronics",
+        "label": "B.Sc Electronics"
+      }
+    ],
+    "why_recommended": "Lower marks thresholds and no entrance examination in this sample rule. A different degree from B.Tech ECE.",
+    "steps_to_complete": [
+      "Meet B.Sc Electronics requirements",
+      "Complete the degree",
+      "Check further-study options separately"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_programme": "bsc_electronics"
+  },
+  {
+    "id": "r_mca_bridge",
+    "name": "Bridge Course in Mathematics, then MCA",
+    "route_type": "Bridge-course route",
+    "alternative_for": [
+      "mca"
+    ],
+    "final_programme": "mca",
+    "steps": [
+      {
+        "kind": "certificate",
+        "certificate_id": "math_bridge_univ",
+        "label": "Bridge Course in Mathematics"
+      },
+      {
+        "kind": "programme",
+        "programme_id": "mca",
+        "label": "MCA"
+      }
+    ],
+    "why_recommended": "MCA in this sample rule accepts either Class 12 Mathematics or the bridge course. The entrance examination is still required.",
+    "steps_to_complete": [
+      "Hold a bachelor's degree with the required percentage",
+      "Complete the bridge course",
+      "Qualify an accepted entrance exam",
+      "Apply to MCA"
+    ],
+    "typical_duration": null,
+    "cost": null,
+    "officially_recognised": "Unverified",
+    "recognition_note": "Recognition by the target institution has not been verified. Confirm before relying on this route.",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    },
+    "rule_version": 1,
+    "entry_requirements": [
+      {
+        "id": "bachelor",
+        "type": "qualification",
+        "level": "bachelor",
+        "min_pct": 50
+      }
+    ]
+  }
+]

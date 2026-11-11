@@ -1,0 +1,600 @@
+[
+  {
+    "id": "btech_cse",
+    "name": "B.Tech Computer Science & Engineering",
+    "level": "UG",
+    "field": "Computer Science",
+    "description": "Illustrative 4-year engineering programme.",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 65,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 60
+      },
+      {
+        "id": "physics_min",
+        "type": "min_subject",
+        "subject": "physics",
+        "min": 45
+      },
+      {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "JEE Main"
+        ],
+        "label": "Entrance examination"
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "btech_aiml",
+    "name": "B.Tech Artificial Intelligence & Machine Learning",
+    "level": "UG",
+    "field": "AI/ML",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 70,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 65
+      },
+      {
+        "id": "physics_min",
+        "type": "min_subject",
+        "subject": "physics",
+        "min": 50
+      },
+      {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "JEE Main"
+        ],
+        "label": "Entrance examination"
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "btech_it",
+    "name": "B.Tech Information Technology",
+    "level": "UG",
+    "field": "Information Technology",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 60,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 55
+      },
+      {
+        "id": "physics_min",
+        "type": "min_subject",
+        "subject": "physics",
+        "min": 45
+      },
+      {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "JEE Main",
+          "State CET"
+        ],
+        "label": "Entrance examination"
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "btech_ece",
+    "name": "B.Tech Electronics & Communication Engineering",
+    "level": "UG",
+    "field": "Electronics",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 60,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 55
+      },
+      {
+        "id": "physics_min",
+        "type": "min_subject",
+        "subject": "physics",
+        "min": 55
+      },
+      {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "JEE Main",
+          "State CET"
+        ],
+        "label": "Entrance examination"
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "btech_lateral_cse",
+    "name": "B.Tech CSE - Lateral Entry (after Diploma)",
+    "level": "UG",
+    "field": "Computer Science",
+    "description": "Illustrative lateral-entry rule for diploma holders.",
+    "requirements": [
+      {
+        "id": "diploma",
+        "type": "qualification",
+        "level": "diploma",
+        "min_pct": 55,
+        "disciplines": [
+          "Computer Engineering",
+          "Information Technology"
+        ]
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "bca",
+    "name": "Bachelor of Computer Applications (BCA)",
+    "level": "UG",
+    "field": "Computer Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 50,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "math_or_cs",
+        "type": "any_of",
+        "label": "Mathematics OR Computer Science studied in Class 12",
+        "options": [
+          {
+            "id": "mathematics_studied",
+            "type": "subject_studied",
+            "subject": "mathematics"
+          },
+          {
+            "id": "computer_science_studied",
+            "type": "subject_studied",
+            "subject": "computer_science"
+          }
+        ]
+      }
+    ],
+    "progression_to": [
+      "mca",
+      "msc_ds"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "bsc_cs",
+    "name": "B.Sc Computer Science",
+    "level": "UG",
+    "field": "Computer Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 55,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 45
+      }
+    ],
+    "progression_to": [
+      "mca",
+      "msc_ds"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "bsc_ds",
+    "name": "B.Sc Data Science",
+    "level": "UG",
+    "field": "Data Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)",
+          "Commerce"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 55,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 50
+      }
+    ],
+    "progression_to": [
+      "msc_ds"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "bsc_electronics",
+    "name": "B.Sc Electronics",
+    "level": "UG",
+    "field": "Electronics",
+    "description": "",
+    "requirements": [
+      {
+        "id": "stream",
+        "type": "stream_in",
+        "values": [
+          "Science (PCM)",
+          "Science (PCMB)"
+        ],
+        "label": "Academic stream"
+      },
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 50,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "mathematics_min",
+        "type": "min_subject",
+        "subject": "mathematics",
+        "min": 45
+      },
+      {
+        "id": "physics_min",
+        "type": "min_subject",
+        "subject": "physics",
+        "min": 45
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "bsc_cyber",
+    "name": "B.Sc Cybersecurity & Digital Forensics",
+    "level": "UG",
+    "field": "Cybersecurity",
+    "description": "",
+    "requirements": [
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 55,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      },
+      {
+        "id": "math_or_cs",
+        "type": "any_of",
+        "label": "Mathematics OR Computer Science studied in Class 12",
+        "options": [
+          {
+            "id": "mathematics_studied",
+            "type": "subject_studied",
+            "subject": "mathematics"
+          },
+          {
+            "id": "computer_science_studied",
+            "type": "subject_studied",
+            "subject": "computer_science"
+          }
+        ]
+      }
+    ],
+    "progression_to": [
+      "mca"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "diploma_cs",
+    "name": "Diploma in Computer Engineering (Polytechnic)",
+    "level": "Diploma",
+    "field": "Computer Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "class10",
+        "type": "min_class10",
+        "min": 50,
+        "label": "Class 10 percentage"
+      }
+    ],
+    "progression_to": [
+      "btech_lateral_cse"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "found_computing",
+    "name": "Foundation Programme in Computing & Mathematics",
+    "level": "Foundation",
+    "field": "Computer Science",
+    "description": "Illustrative bridge/foundation programme.",
+    "requirements": [
+      {
+        "id": "overall",
+        "type": "min_overall",
+        "min": 40,
+        "label": "Overall percentage (Class 12 / equivalent)"
+      }
+    ],
+    "progression_to": [
+      "bca",
+      "bsc_cs"
+    ],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "mca",
+    "name": "Master of Computer Applications (MCA)",
+    "level": "PG",
+    "field": "Computer Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "bachelor",
+        "type": "qualification",
+        "level": "bachelor",
+        "min_pct": 50
+      },
+      {
+        "id": "math_background",
+        "type": "any_of",
+        "label": "Mathematics studied at Class 12 OR accepted bridge course in Mathematics",
+        "options": [
+          {
+            "id": "mathematics_studied",
+            "type": "subject_studied",
+            "subject": "mathematics"
+          },
+          {
+            "id": "math_bridge",
+            "type": "certificate",
+            "certificates": [
+              "math_bridge_univ"
+            ],
+            "label": "Accepted certificate"
+          }
+        ]
+      },
+      {
+        "id": "entrance",
+        "type": "entrance",
+        "exams": [
+          "NIMCET",
+          "CUET-PG",
+          "State PGCET"
+        ],
+        "label": "Entrance examination"
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  },
+  {
+    "id": "msc_ds",
+    "name": "M.Sc Data Science",
+    "level": "PG",
+    "field": "Data Science",
+    "description": "",
+    "requirements": [
+      {
+        "id": "bachelor",
+        "type": "qualification",
+        "level": "bachelor",
+        "min_pct": 55,
+        "disciplines": [
+          "Computer Science",
+          "Computer Applications",
+          "Information Technology",
+          "Engineering",
+          "Mathematics",
+          "Statistics",
+          "Science"
+        ]
+      }
+    ],
+    "progression_to": [],
+    "rule_version": 1,
+    "rule_updated": "2026-11-03",
+    "source": {
+      "name": "Illustrative sample rule - NOT an official admission criterion",
+      "url": null,
+      "verification_status": "Illustrative sample",
+      "verified_on": null
+    }
+  }
+]

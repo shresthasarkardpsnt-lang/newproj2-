@@ -1,0 +1,487 @@
+[
+  {
+    "id": "math_bridge_univ",
+    "name": "Bridge Course in Mathematics (university-offered, illustrative)",
+    "issuer": "Admitting university (illustrative)",
+    "category": "Admission requirement certificates",
+    "fields": [
+      "Computer Science",
+      "Data Science"
+    ],
+    "skills": [
+      "Algebra",
+      "Calculus basics",
+      "Discrete mathematics"
+    ],
+    "knowledge_areas": [
+      "mathematics"
+    ],
+    "url": null,
+    "url_type": "none",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "Accepted by the illustrative MCA sample rule only; confirm with the real institution",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Defined in this sample knowledge base to demonstrate an institution-accepted certificate.",
+    "verification_status": "Illustrative sample",
+    "verified_on": null
+  },
+  {
+    "id": "khan_math",
+    "name": "Algebra, Calculus & Linear Algebra courses",
+    "issuer": "Khan Academy",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Computer Science",
+      "AI/ML",
+      "Data Science",
+      "Electronics"
+    ],
+    "skills": [
+      "Algebra",
+      "Calculus",
+      "Linear algebra"
+    ],
+    "knowledge_areas": [
+      "mathematics"
+    ],
+    "url": "https://www.khanacademy.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": false
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "nptel_math",
+    "name": "Mathematics foundation courses",
+    "issuer": "NPTEL / SWAYAM",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Computer Science",
+      "AI/ML",
+      "Electronics",
+      "Data Science"
+    ],
+    "skills": [
+      "Engineering mathematics",
+      "Calculus",
+      "Probability"
+    ],
+    "knowledge_areas": [
+      "mathematics"
+    ],
+    "url": "https://nptel.ac.in",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": false
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "nptel_physics",
+    "name": "Physics fundamentals courses",
+    "issuer": "NPTEL / SWAYAM",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Electronics",
+      "Computer Science"
+    ],
+    "skills": [
+      "Mechanics",
+      "Electricity & magnetism"
+    ],
+    "knowledge_areas": [
+      "physics"
+    ],
+    "url": "https://nptel.ac.in",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": false
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "khan_stats",
+    "name": "Statistics & Probability",
+    "issuer": "Khan Academy",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Data Science",
+      "AI/ML"
+    ],
+    "skills": [
+      "Descriptive statistics",
+      "Probability",
+      "Inference"
+    ],
+    "knowledge_areas": [
+      "statistics"
+    ],
+    "url": "https://www.khanacademy.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": false
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "nptel_electronics",
+    "name": "Basic Electronics courses",
+    "issuer": "NPTEL / SWAYAM",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Electronics"
+    ],
+    "skills": [
+      "Circuit basics",
+      "Semiconductor devices"
+    ],
+    "knowledge_areas": [
+      "electronics",
+      "physics"
+    ],
+    "url": "https://nptel.ac.in",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": false
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "cs50",
+    "name": "CS50: Introduction to Computer Science",
+    "issuer": "Harvard University via edX",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Computer Science",
+      "AI/ML",
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "skills": [
+      "Programming fundamentals",
+      "Algorithms",
+      "Data structures"
+    ],
+    "knowledge_areas": [
+      "programming"
+    ],
+    "url": "https://www.edx.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "python_everybody",
+    "name": "Python for Everybody",
+    "issuer": "University of Michigan via Coursera",
+    "category": "Academic preparation courses",
+    "fields": [
+      "Computer Science",
+      "AI/ML",
+      "Data Science",
+      "Information Technology"
+    ],
+    "skills": [
+      "Python",
+      "Data structures",
+      "Databases basics"
+    ],
+    "knowledge_areas": [
+      "programming",
+      "databases"
+    ],
+    "url": "https://www.coursera.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "pcep",
+    "name": "PCEP - Certified Entry-Level Python Programmer",
+    "issuer": "Python Institute",
+    "category": "Professional skill certificates",
+    "fields": [
+      "Computer Science",
+      "AI/ML",
+      "Data Science"
+    ],
+    "skills": [
+      "Python syntax",
+      "Control flow",
+      "Functions"
+    ],
+    "knowledge_areas": [
+      "programming"
+    ],
+    "url": "https://pythoninstitute.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "netacad_networking",
+    "name": "Networking Basics / Introduction to Networks",
+    "issuer": "Cisco Networking Academy",
+    "category": "Professional skill certificates",
+    "fields": [
+      "Information Technology",
+      "Cybersecurity"
+    ],
+    "skills": [
+      "Networking fundamentals",
+      "IP addressing"
+    ],
+    "knowledge_areas": [
+      "networking"
+    ],
+    "url": "https://www.netacad.com",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": true,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "google_cyber",
+    "name": "Google Cybersecurity Certificate",
+    "issuer": "Google via Coursera",
+    "category": "Professional skill certificates",
+    "fields": [
+      "Cybersecurity",
+      "Information Technology"
+    ],
+    "skills": [
+      "Security fundamentals",
+      "Network security",
+      "Incident response"
+    ],
+    "knowledge_areas": [
+      "security",
+      "networking"
+    ],
+    "url": "https://grow.google/certificates/",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "google_data",
+    "name": "Google Data Analytics Certificate",
+    "issuer": "Google via Coursera",
+    "category": "Professional skill certificates",
+    "fields": [
+      "Data Science"
+    ],
+    "skills": [
+      "Spreadsheets",
+      "SQL",
+      "Data visualisation"
+    ],
+    "knowledge_areas": [
+      "statistics",
+      "databases"
+    ],
+    "url": "https://grow.google/certificates/",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "sql_ds",
+    "name": "SQL for Data Science",
+    "issuer": "UC Davis via Coursera",
+    "category": "Professional skill certificates",
+    "fields": [
+      "Data Science",
+      "Information Technology"
+    ],
+    "skills": [
+      "SQL",
+      "Relational databases"
+    ],
+    "knowledge_areas": [
+      "databases"
+    ],
+    "url": "https://www.coursera.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "ml_spec",
+    "name": "Machine Learning Specialization",
+    "issuer": "DeepLearning.AI and Stanford via Coursera",
+    "category": "Professional skill certificates",
+    "fields": [
+      "AI/ML",
+      "Data Science"
+    ],
+    "skills": [
+      "Supervised learning",
+      "Neural networks basics"
+    ],
+    "knowledge_areas": [
+      "machine_learning",
+      "mathematics"
+    ],
+    "url": "https://www.coursera.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "ibm_ai",
+    "name": "AI Fundamentals (IBM SkillsBuild)",
+    "issuer": "IBM SkillsBuild",
+    "category": "Profile-strengthening certificates",
+    "fields": [
+      "AI/ML",
+      "Data Science"
+    ],
+    "skills": [
+      "AI concepts",
+      "Responsible AI"
+    ],
+    "knowledge_areas": [
+      "machine_learning"
+    ],
+    "url": "https://skillsbuild.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  },
+  {
+    "id": "fcc_python",
+    "name": "Scientific Computing with Python certification",
+    "issuer": "freeCodeCamp",
+    "category": "Profile-strengthening certificates",
+    "fields": [
+      "Computer Science",
+      "Data Science",
+      "AI/ML"
+    ],
+    "skills": [
+      "Python projects"
+    ],
+    "knowledge_areas": [
+      "programming"
+    ],
+    "url": "https://www.freecodecamp.org",
+    "url_type": "issuer_homepage",
+    "duration": null,
+    "cost": null,
+    "recognition_status": "No institution-specific admission recognition verified",
+    "impact": {
+      "academic_preparation": false,
+      "profile_strengthening": true
+    },
+    "evidence_source": "Issuer name from general knowledge; course page, duration and cost NOT verified. Check the issuer's site.",
+    "verification_status": "Unverified",
+    "verified_on": null
+  }
+]
